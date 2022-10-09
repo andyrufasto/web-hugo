@@ -1,10 +1,10 @@
 ---
 # Display name
-title: Alice Bighetti 吳恩達
+title: Andy Rufasto
 
 # Full name (for SEO)
-first_name: Alice
-last_name: Bighetti
+first_name: Andy
+last_name: Rufasto
 
 # Is this the primary user of the site?
 superuser: true
@@ -16,6 +16,8 @@ role: Professor of Artificial Intelligence
 organizations:
   - name: Stanford University
     url: https://www.stanford.edu/
+  - name: Evidencia: Observatorio de Políticas Públicas
+    url: https://evidencia-pe.com/blog/
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
